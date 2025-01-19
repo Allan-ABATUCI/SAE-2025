@@ -9,7 +9,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background: url('bg-01.jpg') no-repeat center center fixed;
+            background: url('src/images/bg-01.jpg') no-repeat center center fixed;
             background-size: cover;
             display: flex;
             justify-content: center;
@@ -62,7 +62,7 @@
 
 <body>
     <div class="container">
-        <img src="logo.png" alt="Annotator Quest Logo" class="logo">
+        <img src="src/images/logo.png" alt="Annotator Quest Logo" class="logo">
         <h1>Bienvenue sur Annotator Quest</h1>
         <div class="buttons">
             <a href="src/register.php">Inscription</a>
